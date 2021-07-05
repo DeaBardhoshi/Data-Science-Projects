@@ -7,3 +7,4 @@
 4. Music System is a project exploring the Spotify songs dataset and looking at popularity and era differences.
 5. Urban Health is a project looking at various health metric for American cities, starting with food.
 6. Urban Health, Part 2 is looking at food metrics for developing countries and building models to predict these metrics.
+7. Bikeability Pipeline looks at the most bike-friendly cities in the world.
